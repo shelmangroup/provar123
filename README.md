@@ -11,4 +11,8 @@ Sat Apr  6 11:18:38 AM CEST 2024
 Sat Apr  6 11:21:15 AM CEST 2024
 Sat Apr  6 11:26:23 AM CEST 2024
 Sat Apr  6 11:28:12 AM CEST 2024
+<<<<<<< HEAD
 Sat Apr  6 11:28:37 AM CEST 2024
+=======
+>>>>>>> a2b5023 (fixa)
+Sat Apr  6 11:32:50 AM CEST 2024
